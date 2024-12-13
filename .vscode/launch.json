@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArrayDouble",
+            "request": "launch",
+            "mainClass": "ArrayDouble",
+            "projectName": "Project_6_137b974e"
+        },
+        {
+            "type": "java",
+            "name": "ArrayMinOrMax",
+            "request": "launch",
+            "mainClass": "ArrayMinOrMax",
+            "projectName": "Project_6_137b974e"
+        },
+        {
+            "type": "java",
+            "name": "ArrayString",
+            "request": "launch",
+            "mainClass": "ArrayString",
+            "projectName": "Project_6_137b974e"
+        },
+        {
+            "type": "java",
+            "name": "ArrayTwoChar",
+            "request": "launch",
+            "mainClass": "ArrayTwoChar",
+            "projectName": "Project_6_137b974e"
+        },
+        {
+            "type": "java",
+            "name": "ArrayTwoString",
+            "request": "launch",
+            "mainClass": "ArrayTwoString",
+            "projectName": "Project_6_137b974e"
+        },
+        {
+            "type": "java",
+            "name": "ArraysDeepToStringDemo",
+            "request": "launch",
+            "mainClass": "ArraysDeepToStringDemo",
+            "projectName": "Project_6_137b974e"
+        },
+        {
+            "type": "java",
+            "name": "GarlandWithArray",
+            "request": "launch",
+            "mainClass": "GarlandWithArray",
+            "projectName": "Project_6_137b974e"
+        }
+    ]
+}
